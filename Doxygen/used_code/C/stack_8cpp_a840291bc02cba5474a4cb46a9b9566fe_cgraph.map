@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$stack_8cpp.html#afd8fa248cd83c8c3b73045235e586932" title="stack_full() &#45; Check that the stack is full " alt="" coords="114,5,191,32"/>
+<area shape="rect" id="node3" href="$stack_8cpp.html#a888238a05b40e20357899f4f02442326" title="void push(int inData) &#45; Stores a one data on the stack " alt="" coords="127,56,178,83"/>
+<area shape="rect" id="node4" href="$stack_8cpp.html#a9ab176223790fbcc85e664dd8262ba46" title="stack_empty() &#45; Check that the stack is empty " alt="" coords="104,107,201,133"/>
+<area shape="rect" id="node5" href="$stack_8cpp.html#a163177f1a0b7d847bc3241809dafc097" title="void pop() &#45; Getting a one data from the stack " alt="" coords="131,157,174,184"/>
+</map>
